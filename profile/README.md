@@ -13,3 +13,8 @@ Visit [team.stibarc.com](https://team.stibarc.com/) to learn more!
 ----
 
 By using our products, you agree to our [terms of service](https://stibarc.com/tos.html) and [privacy policy](https://stibarc.com/privacy.html).
+
+----
+
+![STiBaRC 88x31](https://github.com/STiBaRC/stibarc_branding/blob/main/stibarc/88x31.gif?raw=true)
+![STiBaRC Pride](https://github.com/user-attachments/assets/58fef757-f732-4850-a8dc-2bb08dfc8667)
